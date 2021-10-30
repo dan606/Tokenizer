@@ -6,6 +6,7 @@ class Tokenizer
 {
 public:
     Tokenizer();
+
 };
 
 #endif // TOKENIZER_H
