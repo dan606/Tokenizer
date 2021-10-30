@@ -1,5 +1,6 @@
 QT -= gui
 
+
 CONFIG += c++03 console
 CONFIG -= app_bundle
 
